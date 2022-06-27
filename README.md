@@ -9,28 +9,42 @@ The purpose of this analysis is to find peak hours, volume based on gender, volu
 You can find the results of our analysis in my <a href="https://public.tableau.com/app/profile/shawn.logan/viz/Deliverable2_16560169211480/CheckoutTimesbyGender" target="_blank">Tableau Account</a>
 
 ##  **Checkout Time for Users**
-<p align="center">https://github.com/lawnshogan/Bikesharing_Analysis/blob/main/Images/Checkout%20times%20for%20users.png</p>
+<p align="center">
+  <img src="https://github.com/lawnshogan/Bikesharing_Analysis/blob/main/Images/Checkout%20times%20for%20users.png" width="700"/>
+</p>
 
 ##  **Checkout Times by Gender**
 
-<p align="center">https://github.com/lawnshogan/Bikesharing_Analysis/blob/main/Images/Checkout%20times%20for%20Gender.png</p>
+<p align="center">
+  <img src="https://github.com/lawnshogan/Bikesharing_Analysis/blob/main/Images/Checkout%20times%20for%20Gender.png" width="700"/>
+</p>
 
 ##  **Trips by Weekday**
 
-<p align="center">https://github.com/lawnshogan/Bikesharing_Analysis/blob/main/Images/Trips%20by%20Weekday%20(Hourly).png</p>
+<p align="center">
+  <img src="https://github.com/lawnshogan/Bikesharing_Analysis/blob/main/Images/Trips%20by%20Weekday%20(Hourly).png" width="700"/>
+</p>
 
 ##  **Trips by Gender**
 
-<p align="center">https://github.com/lawnshogan/Bikesharing_Analysis/blob/main/Images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png</p>
+<p align="center">
+  <img src="https://github.com/lawnshogan/Bikesharing_Analysis/blob/main/Images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png" width="700"/>
+</p>
 
 ##  **Trips by Users**
 
-<p align="center">https://github.com/lawnshogan/Bikesharing_Analysis/blob/main/Images/Trips%20by%20Users%20(Weekday).png</p>
+<p align="center">
+  <img src="https://github.com/lawnshogan/Bikesharing_Analysis/blob/main/Images/Trips%20by%20Users%20(Weekday).png" width="700"/>
+</p>
 
 ##  **Bike Repairs**
 
-<p align="center">https://github.com/lawnshogan/Bikesharing_Analysis/blob/main/Images/Bike%20Repairs.png</p>
+<p align="center">
+  <img src="https://github.com/lawnshogan/Bikesharing_Analysis/blob/main/Images/Bike%20Repairs.png" width="700"/>
+</p>
 
 ##  **Top Starting Locations**
 
-<p align="center">https://github.com/lawnshogan/Bikesharing_Analysis/blob/main/Images/Top%20Starting%20Locations.png</p>
+<p align="center">
+  <img src="https://github.com/lawnshogan/Bikesharing_Analysis/blob/main/Images/Top%20Starting%20Locations.png" width="700"/>
+</p>
