@@ -57,3 +57,11 @@ You can find the results of our analysis in my <a href="https://public.tableau.c
 </p>
 
 - Most riders are located in the heart of the city
+
+##  **Summary**
+- There are multiple data points I noticed the most. First, subscribers make up most of the regular customers versus one-time users.
+- Thursdays tend to be the busiest day, and men dominate the usage of citibike customers. 
+- Peak hours are between 5-7pm, and the best time to repair the bicycles are between 2-5am.
+
+##  **Additional Thoughts**
+- We known the breakdown of genders, what about age groups?
